@@ -1,0 +1,9 @@
+header { background: linear-gradient(110deg, #626fce, #74419c); 
+    color: white; padding: 24px; display: flex; gap: 36px; align-items: center; flex-wrap: wrap; }
+
+    strong { font-size: 24px; }
+
+    nav { display: flex; gap: 24px; flex-wrap: wrap; }
+
+    a { color: white; text-decoration: none; padding: 8px 0; }
+    a:hover { text-decoration: underline; }
